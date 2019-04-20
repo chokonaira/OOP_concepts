@@ -2,7 +2,7 @@
 
 #Guidelines
 - Download and install Node.js https://nodejs.org/en/download/ 
-- clone this repo https://github.com/chokonaira/OOP_concepts.git
+- clone this repo https://github.com/chokonaira/OOP_concepts.git 
 #in terminal 
 - cd into OOP_concepts 
 - run node index.js
