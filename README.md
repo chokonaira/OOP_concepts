@@ -1,11 +1,11 @@
 #Basic Javascript OOP Illustration 
 
 #Guidelines
-download and install Node.js https://nodejs.org/en/download/
-clone this repo https://github.com/chokonaira/OOP_concepts.git
-in terminal 
-cd into OOP_concepts
-run node index.js
+- Download and install Node.js https://nodejs.org/en/download/ 
+- clone this repo https://github.com/chokonaira/OOP_concepts.git
+#in terminal 
+- cd into OOP_concepts 
+- run node index.js
 
 #INHERITANCE
 * Inheritance is a method in which one object acquires all the properties and behaviours of another object
